@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfdemogit-sm"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
