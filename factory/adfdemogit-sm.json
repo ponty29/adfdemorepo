@@ -1,0 +1,9 @@
+{
+	"name": "adfdemogit-sm",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "43406e09-07d0-4afc-86c3-ec8b3d016570",
+		"tenantId": "b87824c4-ee20-4994-83dd-415a1807c063"
+	}
+}
